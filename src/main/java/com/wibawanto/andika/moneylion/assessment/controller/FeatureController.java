@@ -1,7 +1,6 @@
 package com.wibawanto.andika.moneylion.assessment.controller;
 
 import com.wibawanto.andika.moneylion.assessment.model.Feature;
-import com.wibawanto.andika.moneylion.assessment.service.DefaultFeatureService;
 import com.wibawanto.andika.moneylion.assessment.service.FeatureService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,10 +1,7 @@
 package com.wibawanto.andika.moneylion.assessment.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.wibawanto.andika.moneylion.assessment.AssessmentApplication;
-import com.wibawanto.andika.moneylion.assessment.controller.FeatureController;
 import com.wibawanto.andika.moneylion.assessment.model.Feature;
-import com.wibawanto.andika.moneylion.assessment.service.DefaultFeatureService;
 import com.wibawanto.andika.moneylion.assessment.service.FeatureService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
